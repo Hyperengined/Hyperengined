@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hyperengined
 - 👀 I’m interested in coding, maths and rocketry
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Wait, am I learning something ?
+- 💞️ I’m looking to collaborate on any project where people would welcome me and that fits my interests.
 - 📫 How to reach me : DM
 
 <!---
