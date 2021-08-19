@@ -8,8 +8,8 @@ I would love to colaborate (and NOT ony on code, but also on knwoledge or transl
 Yours truely <br />
 Over <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overengined&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyperengined&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperengined&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Hyperengined/Hyperengined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
