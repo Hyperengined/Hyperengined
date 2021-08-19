@@ -1,5 +1,5 @@
 Hi ! I'm Overengined
-I like coding , and particularily coding related to science, space, or STEM in general (with however a prefernece for the two firsts 😉). <br />
+I like coding , and particularily coding related to science, space, or STEM in general (with however a preference for the two firsts 😉). <br />
 I'm quite good at python and have some practice in powershell and C++. I can also do some html, event though it isn't my favorite language. <br />
 I also love art and design and do some myself. <br />
 (I'm also a native french speaker, but really, is that so important XD) <br />
