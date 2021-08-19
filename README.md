@@ -4,7 +4,7 @@ I'm quite good at python and have some practice in powershell and C++. I can als
 I also love art and design and do some myself. <br />
 (I'm also a native french speaker, but really, is that so important XD) <br />
 If you want to contact me then feel free to use discord ( Overengined#7491) I don't usually accept "shady" friend request, but if your GitHub account is linked to your discord one, I might accept. <br />
-I would love to colaborate (and NOT ony on code, but also on knwoledge or translation) on any project that would fit my interests. <br /> 
+I would love to colaborate (and NOT only on code, but also on knwoledge or translation) on any project that would fit my interests. <br /> 
 Yours truely <br />
 Over <br />
 
