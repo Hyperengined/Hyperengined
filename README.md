@@ -8,8 +8,8 @@ I would love to colaborate (and not necessarily only on code, but also on knwole
 Yours truely <br />
 Over <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyperengined&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperengined&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overengined&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overengined&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 > ### Am I online on discord ? see just below : <br />
 > <img src="https://discord.c99.nl/widget/theme-1/713064556242665624.png" >
