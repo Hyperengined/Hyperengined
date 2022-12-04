@@ -14,9 +14,9 @@ Over <br />
 > ### Am I online on discord ? see just below : <br />
 > <img src="https://discord.c99.nl/widget/theme-1/713064556242665624.png" >
 <img src=https://download.blender.org/branding/community/blender_community_badge_white.png width=100> <img src=https://isocpp.org/assets/images/cpp_logo.png width=100> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png width=100>
-> Small note : previously, due to some personal account issues, my account was called Hyperengined, but now, it's called Overengined, so I maintin the same username on all the platforms I am on. So everything related to Hyperengined and that looks like it can be linked to me can be associated with Overengined. TL;DR : I changed my account username, so keep in mind there might some of my stuff dating from before the name change named using Hyperengined
+> Small note : previously, due to some personal account issues, my account was called Hyperengined, but now, it's called Overengined, so I maintain the same username on all the platforms I am on. So everything related to Hyperengined and that looks like it can be linked to me can be associated with Overengined. TL;DR : I changed my account username, so keep in mind there might some of my stuff dating from before the name change named using Hyperengined
 
 <!---
-Hyperengined/Hyperengined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Overengined/Overengined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
