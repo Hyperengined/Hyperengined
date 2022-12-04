@@ -2,7 +2,7 @@ Hi ! I'm Overengined
 I like coding , and particularily coding related to science, space, or STEM in general (with however a preference for the two firsts 😉). <br />
 I'm quite good at python and have some practice in powershell and C++. I know HTML, CSS and JS, event though they aren't my favorite languages. <br />
 I also love art and design and do some myself. I do a lot of blender and I'm quite good at it. <br />
-I also happen to know my way around quite a lot of open-source softwares (I really love open-source), like LMMS, Krita, Inkscape, Shotcut, Meshroom, Audacity, Sonic Visualizer and much more !
+I also happen to know my way around quite a lot of open-source softwares (I really love open-source), like LMMS, Krita, Inkscape, Shotcut, Meshroom, Audacity, Sonic Visualizer and much more ! <br />
 (I'm also a native french speaker) <br />
 If you want to contact me then feel free to use discord ( Overengined#7491) I don't usually accept "shady" friend request, but if your GitHub account is linked to your discord one, I might accept. <br />
 I would love to colaborate (and not necessarily only on code, but also on knwoledge or translation) on any project that would fit my interests. <br /> 
