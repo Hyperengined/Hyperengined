@@ -5,7 +5,7 @@ I also love art and design and do some myself. I do a lot of blender and I'm qui
 I also happen to know my way around quite a lot of open-source softwares (I really love open-source), like LMMS, Krita, Inkscape, Shotcut, Meshroom, Audacity, Sonic Visualizer and much more ! <br />
 (I'm also a native french speaker) <br />
 If you want to contact me then feel free to use discord ( Overengined#7491) I don't usually accept "shady" friend request, but if your GitHub account is linked to your discord one, I might accept. <br />
-I would love to colaborate (and not necessarily only on code, but also on knwoledge or translation) on any project that would fit my interests. <br /> 
+I would love to colaborate (and not necessarily only on code, but also on knowledge or translation) on any project that would fit my interests. <br /> 
 Yours truely <br />
 Over <br />
 
